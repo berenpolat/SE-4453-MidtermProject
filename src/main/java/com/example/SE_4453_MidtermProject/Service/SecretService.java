@@ -1,4 +1,4 @@
-package com.mobileprovider.service;
+package com.example.SE_4453_MidtermProject.Service;
 
 import com.azure.identity.DefaultAzureCredentialBuilder;
 import com.azure.security.keyvault.secrets.SecretClient;
